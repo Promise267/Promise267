@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Promise
 - 👀 I’m interested in Application Development, Web Development, UI and UX
-- 🌱 I’m currently learning Kotlin, Scala, JavaScript
+- 🌱 I’m currently learning Kotlin, Java, Python
 - 💞️ I’m looking to collaborate with any open source projects
 - 📫 How to reach me : Instagram or LinkedIn
 
