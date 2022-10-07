@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Promise</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate aspiring fullstack developer</h3>
 
 <p align="right"> <img src = "https://cdn.pixabay.com/photo/2018/06/08/00/48/developer-3461405__340.png alt = "Coding" width = "400"></p>
 
