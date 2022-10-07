@@ -4,7 +4,7 @@
 <p align="right"> <img src = "https://cdn.pixabay.com/photo/2018/06/08/00/48/developer-3461405__340.png alt = "Coding" width = "400"></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=promise267" alt="promise267" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=promise267" alt="promise267" /></a> </p>
 
 - 🔭 I’m currently working on [Time Tracker](https://github.com/proshore/TickerPRO-ProshoreTimeTrackingSystem-Frontend.git)
 
