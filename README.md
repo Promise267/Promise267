@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [Time Tracker](https://github.com/proshore/TickerPRO-ProshoreTimeTrackingSystem-Frontend.git)
 
-- 🌱 I’m currently learning **Kotlin**
-
-- 💬 Ask me about **Vue, Java**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **promrizal@gmail.com**
 
